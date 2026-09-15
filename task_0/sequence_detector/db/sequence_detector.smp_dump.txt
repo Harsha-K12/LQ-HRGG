@@ -1,0 +1,8 @@
+
+State Machine - |sequence_detector|state
+Name state.SONE_ZERO_NINE state.SONE_ZERO state.SONE state.ST_IDLE state.SONE_ZERO_NINE_FOUR 
+state.ST_IDLE 0 0 0 0 0 
+state.SONE 0 0 1 1 0 
+state.SONE_ZERO 0 1 0 1 0 
+state.SONE_ZERO_NINE 1 0 0 1 0 
+state.SONE_ZERO_NINE_FOUR 0 0 0 1 1 
